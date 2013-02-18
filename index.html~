@@ -8,6 +8,36 @@
 	<script src="http://chocotemplates.com/preview/preview.js" type="text/javascript"></script>
 </head>
 <body class="html">
+<div id="customize">
+	<div id="customize-holder">
+		<h2>Curve</h2>
+		
+				<div class="responsive">
+			<a href="#" rel="desktop">Desktop</a>
+			<a href="#" rel="tablet">Tablet</a>
+			<a href="#" rel="mobile">Mobile</a>
+		</div>
+				
+					<h3>Select Layout:</h3>
+				
+		<div class="colors">
+			<div class="cl">&nbsp;</div>
+						<ul>
+				<li>
+					<a href="default/home.html" class="color" style="color:#">
+												<strong>default</strong>
+					</a>
+					<ol>
+												<li><a href="default/home.html">home</a></li>
+											</ol>
+				</li>
+			</ul>
+						<div class="cl">&nbsp;</div>
+		</div>
+		
+
+	</div>
+</div>
 <div class="iframe-holder">
 	<iframe id="frame" src="" width="100%" scrolling="auto" frameborder="0"></iframe>
 </div>
